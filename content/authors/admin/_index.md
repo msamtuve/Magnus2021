@@ -28,7 +28,7 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD i Sustainability Science, Naturresurshushållning
       institution: Stanford University
       year: 2012
     - course: MEng in Artificial Intelligence
