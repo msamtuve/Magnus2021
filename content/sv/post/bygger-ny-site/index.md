@@ -6,5 +6,14 @@ featured: false
 image:
   focal_point: Smart
   preview_only: false
+
+authors:
+- admin
+
+tags:
+- blogg
+
+categories:
+- share
 ---
 Det kommer vara stökigt här ett tag. Har uppdaterat site och håller på att lägga in "content" och sätta upp olika funktioner.
