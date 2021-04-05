@@ -34,9 +34,6 @@ education:
     - course: MSc Biologi, MSc Ekotoxikology
       institution: Uppsala universitet
       year: 1995
-#    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 email: "magnus.tuvendal@gmail.com"
 superuser: true
 highlight_name: false
