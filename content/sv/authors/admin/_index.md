@@ -37,11 +37,12 @@ education:
 #    - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: "magnus.tuvendal@gmail.com"
 superuser: true
 highlight_name: false
 ---
 
-Magnus Tuvendal en tvärvetenskapligt inriktad problemlösare och systemtänkare. Han är en av Sveriges ledande konsulter rörande hållbar samhällsutveckling med särskilt fokus på ekosystemtjänsters teori och praktik. Magnus har hjälpt ett flertal kommuner, myndigheter och företag med utredningar, expertstöd och kompetensutveckling. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet. Magnus Tuvendal är fil.dr. i naturresurshushållning (Sustainability Science) och prisbelönt för sitt arbete med lärande för hållbar utveckling.
+Magnus Tuvendal är en tvärvetenskapligt inriktad problemlösare och systemtänkare och arbetar på Calluna särskilt med frågan hur ekosystemtjänster kan synliggöras i beslut och därmed stödja en hållbar samhällsutveckling. Magnus arbetar både med dataanalys och processer. Han har erfarenhet av att leda projekt i samarbete med statliga verk, myndigheter och företag. Magnus är en mycket uppskattad föreläsare, folkbildare och seminarieledare; är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+
