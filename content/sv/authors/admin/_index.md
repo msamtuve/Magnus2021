@@ -29,7 +29,7 @@ organizations:
 education:
   courses:
     - course: PhD i Sustainability Science, Naturresurshushållning
-      institution: Stanford University
+      institution: Stockholm Resilience Centre, Stockholms universitet
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
