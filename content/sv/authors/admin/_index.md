@@ -1,12 +1,13 @@
 ---
 title: Magnus Tuvendal
-role: Professor of Artificial Intelligence
+role: senior miljökonsult, specialist ekosystemtjänste
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- ekosystemtjänster i teori och praktik
+- förstå och kommunicera hållbarhet
+- konsten att fatta goda beslut i komplexa situationer
+- deliberativa processer och brobyggande organisationer
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,8 +43,6 @@ superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Magnus Tuvendal en tvärvetenskapligt inriktad problemlösare och systemtänkare. Han är en av Sveriges ledande konsulter rörande hållbar samhällsutveckling med särskilt fokus på ekosystemtjänsters teori och praktik. Magnus har hjälpt ett flertal kommuner, myndigheter och företag med utredningar, expertstöd och kompetensutveckling. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet. Magnus Tuvendal är fil.dr. i naturresurshushållning (Sustainability Science) och prisbelönt för sitt arbete med lärande för hållbar utveckling.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
