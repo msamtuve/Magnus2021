@@ -4,7 +4,6 @@ date: 2021-04-05T13:06:05.245Z
 draft: false
 featured: false
 image:
-  filename: https://commons.wikimedia.org/wiki/File:Sweden_road_sign_A20.svg
   focal_point: Smart
   preview_only: false
 ---
