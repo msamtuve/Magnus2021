@@ -24,17 +24,17 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Calluna AB
+    url: https://www.calluna.se/
 education:
   courses:
     - course: PhD i Sustainability Science, Naturresurshushållning
       institution: Stockholm Resilience Centre, Stockholms universitet
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: MSc Biologi, MSc Ekotoxikology
+      institution: Uppsala universitet
+      year: 1995
+#    - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
