@@ -44,5 +44,5 @@ highlight_name: false
 
 Magnus Tuvendal är en tvärvetenskapligt inriktad problemlösare och systemtänkare och arbetar på Calluna särskilt med frågan hur ekosystemtjänster kan synliggöras i beslut och därmed stödja en hållbar samhällsutveckling. Magnus arbetar både med dataanalys och processer. Han har erfarenhet av att leda projekt i samarbete med statliga verk, myndigheter och företag. Magnus är en mycket uppskattad föreläsare, folkbildare och seminarieledare; är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Ladda ned {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV{{< /staticref >}}.
 
