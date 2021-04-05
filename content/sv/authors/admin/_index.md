@@ -11,6 +11,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+##########
+# Det finns många fler ikoner man kan lägga in som till Youtube.
+##########
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
