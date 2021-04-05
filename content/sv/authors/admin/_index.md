@@ -1,7 +1,7 @@
 ---
 title: Magnus Tuvendal
 role: senior miljökonsult, specialist ekosystemtjänster
-bio: Mina intressen inkluderar ekosystemtjänsters praktik, hur grupper framgångsrikt fattar kloka beslut (deliberativa processer och mentala modeller) och vad hållbarhet betyder för företagande.
+bio: Mina intressen inkluderar hur kan se naturens värde och nytta (ekosystemtjänster), hur grupper kan framgångsrikt fatta kloka beslut (deliberativa processer och mentala modellen) och vad vad det betyder att vara ett hållbart företag.
 interests:
 - ekosystemtjänster i teori och praktik
 - förstå och kommunicera hållbarhet
@@ -42,7 +42,7 @@ superuser: true
 highlight_name: false
 ---
 
-Magnus Tuvendal arbetar på Calluna särskilt med frågan hur ekosystemtjänster kan synliggöras i beslut och stödja en hållbar samhällsutveckling. Magnus är en tvärvetenskapligt inriktad systemtänkare och arbetar både med dataanalys och processer för att åstadkomma förändring. Han har erfarenhet av att leda projekt i samarbete med företag, statliga verk och myndigheter. Magnus är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
+Magnus Tuvendal arbetar på Calluna särskilt med frågan hur ekosystemtjänster kan synliggöras i beslut och stödja en hållbar samhällsutveckling. Magnus är en tvärvetenskaplig systemtänkare och arbetar både med dataanalys och med de processer som krävs för att åstadkomma förändring. Han har erfarenhet av att leda projekt i samarbete med företag, statliga verk och myndigheter. Magnus är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
 
 {{< icon name="download" pack="fas" >}} Ladda ned {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV, mars 2021{{< /staticref >}}.
 
