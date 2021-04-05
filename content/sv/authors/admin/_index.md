@@ -1,8 +1,7 @@
 ---
 title: Magnus Tuvendal
-role: senior miljökonsult, specialist ekosystemtjänste
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: senior miljökonsult, specialist ekosystemtjänster
+bio: Mina intressen inkluderar ekosystemtjänsters praktik, hur grupper framgångsrikt fattar kloka beslut (deliberativa processer och mentala modeller) och vad hållbarhet betyder för företagande.
 interests:
 - ekosystemtjänster i teori och praktik
 - förstå och kommunicera hållbarhet
