@@ -12,7 +12,8 @@ tags:
 
 image:
   caption: 'En konceptuell modell av hur EST uppstår, av Amanda Nahlik.'
-  focal_point: Smart
+  focal_point: ""
+  placement: 2
   preview_only: false
 ---
 
