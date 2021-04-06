@@ -39,7 +39,7 @@ superuser: true
 highlight_name: false
 ---
 
-Magnus Tuvendal is as a consultant at Calluna AB particularly focused on how Ecosystem Services can be integrated into strategic planning and decision making to support sustainable development. He in experienced in leading smaller and larger projects together with both government authorities and private corporations. Magnus is  awarded for his contributions in learning för sustainable development. 
+Magnus Tuvendal is, as a consultant at Calluna AB, particularly focused on how Ecosystem Services can be integrated into strategic planning and decision making to support sustainable development. He in experienced in leading smaller and larger projects together with both government authorities and private corporations. Magnus is  awarded for his contributions in learning for sustainable development. 
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV (swedish), mars 2021{{< /staticref >}}.
 
