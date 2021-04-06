@@ -27,5 +27,5 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}} OBS - detta formulär fungerar inte än. {{% /callout %}}
+
 
