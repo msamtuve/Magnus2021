@@ -1,9 +1,12 @@
 ---
 title: Magnus Tuvendal
-role: senior environmental consultant, specialist ecosystem services
-bio:
+role: senior miljökonsult, specialist ekosystemtjänster
+bio: Mina intressen inkluderar hur vi kan se naturens värde och nytta (ekosystemtjänster), hur grupper kan framgångsrikt fatta kloka beslut (deliberativa processer och mentala modellen) och vad vad det betyder att vara ett hållbart företag.
 interests:
-
+- ekosystemtjänster i teori och praktik
+- förstå och kommunicera hållbarhet
+- konsten att fatta goda beslut i komplexa situationer
+- deliberativa processer och brobyggande organisationer
 social:
   - icon: envelope
     icon_pack: fas
@@ -28,19 +31,19 @@ organizations:
     url: https://www.calluna.se/
 education:
   courses:
-    - course: PhD Sustainability Science, Natural Resource Management
-      institution: Stockholm Resilience Centre, Stockholm University
+    - course: PhD i Sustainability Science, Naturresurshushållning
+      institution: Stockholm Resilience Centre, Stockholms universitet
       year: 2012
     - course: MSc Biologi, MSc Ekotoxikology
-      institution: Uppsala University
+      institution: Uppsala universitet
       year: 1995
-email:
+email: "magnus.tuvendal@gmail.com"
 superuser: true
 highlight_name: false
 ---
 
-Magnus Tuvendal is as a consultant at Calluna AB particularly focused on how Ecosystem Services can be integrated into strategic planning and decision making to support sustainable development. He in experienced in leading smaller and larger projects together with both government authorities and private corporations. Magnus is  awarded for his contributions in learning för sustainable development. 
+Magnus Tuvendal arbetar på Calluna särskilt med frågan hur ekosystemtjänster kan synliggöras i beslut och stödja en hållbar samhällsutveckling. Magnus är en tvärvetenskaplig systemtänkare och arbetar både med dataanalys och med de processer som krävs för att åstadkomma förändring. Han har erfarenhet av att leda projekt i samarbete med företag, statliga verk och myndigheter. Magnus är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV (swedish), mars 2021{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Ladda ned {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV, mars 2021{{< /staticref >}}.
 
-{{% callout note %}}  This site is being rebuild, april 2021. {{% /callout %}}
+{{% callout note %}} OBS - denna sida än under uppbyggnad under april 2021. {{% /callout %}}
