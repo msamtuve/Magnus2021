@@ -40,4 +40,5 @@ Ofta är nyttan en följd av en rad **samverkande delar av en större helhet - a
 
 Ovan kommer från: [Erik Andersson, Timon McPhearson, Peleg Kremer, Erik Gomez-Baggethun, Dagmar Haase, Magnus Tuvendal, Daniel Wurster. 2015. Scale and context dependence of ecosystem service providing units. Ecosystem Services, 12, pp.157–164.](https://www.sciencedirect.com/science/article/pii/S2212041614000850)
 
-{{< figure src="/img/SPU-tabell.jpg" title= "Urbana ekosystemtjänster och deras SPU, service providing units. Källa ovan." >}} 
+{{< figure src="SPU-tabell.jpg" title= "Urbana ekosystemtjänster och deras SPU, service providing units. Källa ovan." >}} 
+
