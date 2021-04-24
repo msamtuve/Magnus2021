@@ -1,5 +1,5 @@
 ---
-title: Vem har rätt till naturen?
+title: Vem har rätt till fjällen?
 
 subtitle: SVT:s reportage "Vem har rätt till fjällen?" är en fråga som gäller mycket mer än den svenska fjällvärlden.
 
@@ -69,7 +69,7 @@ En annan är att minska antal besökare, att vara mer restriktiv. Men hur ska be
 
 
 
-Med en prislapp tar vi hänsyn till två näringar - inte allemansrätten. Med pengar i plånboken kan man fortsätta njuta av den svenska fjällvärlden. 
+Med en prislapp tar vi hänsyn till två näringar - inte allemansrätten. Med pengar i plånboken kan man fortsätta njuta av den svenska fjällvärlden. Annars inte.
 
 En annan väg är att lotta ut ett begränsat antal inträden. Eller göra besök svårare, minska service, färre vägar och entreér och kräva mer av besökaren. Då skulle "riktiga friluftsmänniskor" premieras. Och andra ställas utanför. 
 
