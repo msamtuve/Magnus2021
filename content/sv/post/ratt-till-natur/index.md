@@ -1,7 +1,7 @@
 ---
 title: Vem har rätt till naturen?
 
-subtitle: SVT:s reportage "Vem har rätt till fjällen?" är en fråga som gäller mycket mer en den svenska fjällvärlden.
+subtitle: SVT:s reportage "Vem har rätt till fjällen?" är en fråga som gäller mycket mer än den svenska fjällvärlden.
 
 authors:
 - admin
@@ -71,7 +71,11 @@ En annan är att minska antal besökare, att vara mer restriktiv. Men hur ska be
 
 Med en prislapp tar vi hänsyn till två näringar - inte allemansrätten. Med pengar i plånboken kan man fortsätta njuta av den svenska fjällvärlden. 
 
-En annan väg är att lotta ut ett begränsat antal inträden. Eller göra besök svårare, minska service, färre vägar och entreér och kräva mer av besökaren. Då skulle "riktiga friluftsmänniskor" premieras. 
+En annan väg är att lotta ut ett begränsat antal inträden. Eller göra besök svårare, minska service, färre vägar och entreér och kräva mer av besökaren. Då skulle "riktiga friluftsmänniskor" premieras. Och andra ställas utanför. 
 
-Det finns säkert bättre lösningar. Besöksnäringens slitage är en *klassisk tragedy of the commons* som vi i Sverige tills nu kommit undan med stora vidder och få människor i naturen. 
+Idag finns få möjligheter att reglera allemansrätten - ”*alla skall ha tillgång till naturen enligt allemansrätten*” har stöd i Sveriges grundlag. Kanske kan man operationalisera att den som nyttjar allemansrätten eller annars vistas i naturen ska "*visa hänsyn och varsamhet i sitt umgänge med den*”?
+
+Besöksnäringens slitage i fjällvärlden är en klassisk **tragedy of the commons** som vi i Sverige tills nu kommit undan med våra stora vidder och få människor i naturen. 
+
+
 
