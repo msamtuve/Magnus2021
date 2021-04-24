@@ -7,7 +7,7 @@ authors:
 - admin
 
 # Summary for listings and search engines
-summary: Om SVTs reportage - Vem har rätt till fjällen? "Frågan ställs just nu på sin spets i Jämtlandsfjällen. Förödande naturslitage har tvingat fram avstängningar, turistströmmar skär av viktiga renbetesmarker och konflikter gör fjällstationernas framtid oviss."
+summary: Om SVTs reportage - Vem har rätt till fjällen? "Frågan ställs just nu på sin spets i Jämtlandsfjällen."
 
 # Link this post with a project
 projects: []
