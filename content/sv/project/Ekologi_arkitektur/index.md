@@ -14,11 +14,11 @@ date: "2017-04-05"
 external_link: ""
 
 image: 
-  caption:
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-# - icon: twitter
+- icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
@@ -32,12 +32,12 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+slides: example
 ---
 
 En utmaning för stadsbyggande är hur ekologi kan informera planering, gestaltning och byggande. Ofta kommmer viktig information sent. En plats har programmerats, gestaltats, en skiss ligger klar. Först nu görs inventeringar och utredningar. I värsta fall blir ekologi en övning i att pynta ett område, en grön fernissa som inte på djupet tar vara på de värden (ekologiska) platsen har eller kan få.
 
 Här, i samarbete med Andersson Jönsson Landskapsarkitekter AB, arbetar vi på ett nytt sätt som bryter upp traditionellt stuprörstänkande. Här kommer ekologisk expertis in tidigt och platsens möjligheter diskuteras tillsammans. 
 
-{{< figure src="skiss-parken.jpg" title="Platsanalys och skiss var olika värden finns - en grund för diskuterande arbetsmöte med ansvariga arkitekter. Utveckling av Melonparken." >}}
+{{< figure src="skiss-parken.jpg" title="Platsanalys och skiss var olika värden finns - en grund för diskuterande arbetsmöte med ansvariga arkitekter." >}}
 
