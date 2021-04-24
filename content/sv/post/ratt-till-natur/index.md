@@ -60,11 +60,9 @@ Det blir **komplicerat när intressen, när rättigheter, står emot varandra**.
 
 Med ett *ökat besökstryck*, där Covid spelar in, och *nya sätt att "konsumera natur"* (som löpning och MTB) och *nya besökargrupper* (okunniga nybörjare, konsumenter snarare än dedikerade friluftsmänniskor) så ökar naturslitage och renar störs. Slitaget har blivit så omfattande att delar av naturen nu har spärrats av. För rennäring talas  om "oacceptabla störningar", att måttet är rågat och något måste göras. Följderna kan bli att arrenden för fjällstationer sägs upp och på sikt är också den svenska allemansrätten ifrågasatt.
 
-Hur kan lösningar se ut? Ett förslag som förts fram är att bygga fler leder och stationer och sprida ut besökare för att lätta på trycket lokalt kring sylarna. En annan är att minska antal besökare, att vara mer restriktiv. Men hur ska besöksrätten fördelas? Är det ekonomi och pris som ska råda? Kanske 5000 kr i inträde? Den vägen gick Rwanda för att besöka bergsgorillor. Man höjde priset 2017 från 750 USD till 1500 USD för ett besök med [*basic gorilla tracking*](https://www.visitrwanda.com/interests/gorilla-tracking/). Det kostar mer för att fotografera eller filma professionellt. 
+Hur kan lösningar se ut? Ett förslag som förts fram är att bygga fler leder och stationer och sprida ut besökare för att lätta på trycket lokalt kring sylarna. 
 
-[BBC Future planet]: https://www.bbc.com/future/article/20210316-how-the-human-right-to-a-healthy-environment-helps-nature
+En annan är att minska antal besökare, att vara mer restriktiv. Men hur ska besöksrätten fördelas? Är det ekonomi och pris som ska råda? Kanske 5000 kr i inträde? Den vägen gick Rwanda för att besöka bergsgorillor. Man höjde priset 2017 från 750 USD till 1500 USD för ett besök med [*basic gorilla tracking*](https://www.visitrwanda.com/interests/gorilla-tracking/). Det kostar mer för att fotografera eller filma professionellt. 
 
-https://www.bbc.com/future/article/20210316-how-the-human-right-to-a-healthy-environment-helps-nature
-
-{{< figure src="SPU-tabell.jpg" title= "Urbana ekosystemtjänster och deras SPU, service providing units. Källa ovan." >}} 
+Kanske är det riktiga vildmarksmänniskor som ska ha företräde? Man kunde då göra det svårare att ta sig fram. Kanske ta bort stationer, service och fjällräddning.
 
