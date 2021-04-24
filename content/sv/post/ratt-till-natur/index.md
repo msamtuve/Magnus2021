@@ -35,10 +35,10 @@ tags:
 - beslutsfattande
 
 image:
-  caption: '…'
+  caption: 'SVT reportage'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: yes
 ---
 
 **Vem har rätt till naturen?** Varför ska någon ha mer rätt till natur än någon annan? 
