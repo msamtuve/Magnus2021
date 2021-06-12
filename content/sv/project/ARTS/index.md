@@ -14,7 +14,6 @@ image:
 
 url_pdf: ""
 url_video: ""
-url_site: "http://acceleratingtransitions.eu"
 
 draft: 
 ---
@@ -43,4 +42,4 @@ Jag medverkade tillsammans med kollegor på Stockholm Resilience Centre i Stockh
 
 Rapport skickas på begäran.
 
-{{< figure src="/img/arts_initiativ.jpg" title="Några exempel på hur hållbarhetsinitiativen i ARTS arbetar i förhållande till de politiska målen." >}}
+{{< figure src="arts_initiativ.jpg" title="Några exempel på hur hållbarhetsinitiativen i ARTS arbetar i förhållande till de politiska målen." >}}
