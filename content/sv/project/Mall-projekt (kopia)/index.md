@@ -1,5 +1,5 @@
 ---
-title: Förena ekologi och arkitektur i tidiga skeden
+title: en mall
 subtitle:
 summary: Ett brobyggande arbete för att förena ekologi med arkitektur/stadsplanering i ett tidigt skede.
 tags:
@@ -13,9 +13,6 @@ date: "2018-09-05"
 image: 
   caption: Platsanalys och skiss var olika värden finns - en grund för diskuterande arbetsmöte med ansvariga arkitekter.
   focal_point: Smart
-url_pdf: ""
-url_slides: ""
-url_video: "https://youtu.be/0OZB0SqBCU0"
 
 draft: 
 ---
