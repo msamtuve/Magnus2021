@@ -9,7 +9,8 @@ tags:
 categories:
 date: "2017-06-05"
 image: 
-  caption: 'länk: [**ARTS**](http://acceleratingtransitions.eu)'  focal_point: Smart
+  caption: 'länk: [**ARTS**](http://acceleratingtransitions.eu)'  
+focal_point: Smart
 
 url_pdf: ""
 url_video: ""
