@@ -1,6 +1,6 @@
 ---
 title: Hur mycket yta är nödvändig för att ekosystemens funktion ska bevaras i stadsmiljön?
-authora: 
+authors: 
 - admin
 date: 2018-04-21
 categories:

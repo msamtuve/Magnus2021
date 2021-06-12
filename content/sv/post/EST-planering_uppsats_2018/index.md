@@ -1,7 +1,7 @@
 ---
 title: Förtätning eller förgröning? 
 subtitle:
-summary: I en magisteruppsats undersöks hur ekosystemtjänster kan ta plats och berika hur vi kan tänka och agera när vi vill både förtäta och förgröna städer.
+
 authors:
 - admin
 categories:
@@ -21,7 +21,6 @@ projects: []
 date: "2018-06-11"
 # Is this an unpublished draft?
 draft: no
-
 ---
 
 I en uppsats undersöks hur ekosystemtjänster kan ta plats och berika hur vi kan tänka och agera när vi vill både förtäta och förgröna städer. Arbetet bygger på litteraturstudier och intervjuer med aktörer som arbetar med dessa frågor. Uppsatsen ger en  inblick i hur kommuner och andra aktörer resonerar kring målkonflikter mellan förtätning och utveckling samt bevarande av urban grönstruktur. Inledningsvis formulerades tre mycket intressanta, och stora, frågor:
@@ -43,5 +42,5 @@ Handledare Calluna: Anders Carlsson, Magnus Tuvendal
 Examinator: Pontus Cerin
 ISRN: LIU-IEI-TEK-A–18/03159—SE 2018-06-01
 
-{{< figure src="/img/figur_5.png" title= "Argument för förtätning." >}}
-{{< figure src="/img/figur_6.png" title= "Argument för grönstruktur i städer." >}}
+{{< figure src="figur_5.png" title= "Argument för förtätning." >}}
+{{< figure src="figur_6.png" title= "Argument för grönstruktur i städer." >}}
