@@ -6,6 +6,7 @@ tags:
 - hållbarhet
 - stadsutveckling
 - acceleration
+- förändring
 categories:
 date: "2017-06-05"
 image: 
