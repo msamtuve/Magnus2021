@@ -12,10 +12,11 @@ tags:
 - mentala modeller
 - beslutsfattande
 image:
-  caption: 'SVT reportage'
+  caption: 'Image credit: [**SVTplay**](https://www.svt.se/special/vem-har-ratt-till-fjallen/)'
   focal_point: ""
   placement: 2
-  preview_only: yes
+  preview_only: false
+
 
 # Summary for listings and search engines
 summary: Om SVTs reportage - Vem har rätt till fjällen? "Frågan ställs just nu på sin spets i Jämtlandsfjällen."
