@@ -41,11 +41,13 @@ image:
   preview_only: yes
 ---
 
-**Vem har rätt till naturen?** Varför ska någon ha mer rätt till natur än någon annan? 
+**Vem har rätt till naturen?** Varför ska någon ha mer rätt till natur än någon annan? Olika rättigheter står mot varandra.
+
+En startpunkt  är den humanistiska tanken om allas (människor) lika värde. En princip som står sig stark i och som många ställer sig bakom. 
 
 > Both aspects of man's environment, the natural and the man-made, are essential to his well-being and to the enjoyment of basic human rights the right to life itself. Stockholm deklaration, proclamation 1, [UNCHE Stockholm 1972](https://www.un.org/en/conferences/environment/stockholm1972).
 
-En startpunkt  är den humanistiska tanken om allas (människor) lika värde. En princip som står sig stark i och som många ställer sig bakom. FN drar slutsatsen att **mänskliga rättigheter inbegriper rätt till natur**. Det finns t. o. m. en särkild utredare, en *Special Rapporteur on human right and the environment*, med uppdrag att undersöka utmaningar och ge policy-rekommendationer. FN säger i rapporten *Framework Principles on Human Rights and the Environment*
+FN drar slutsatsen att **mänskliga rättigheter inbegriper rätt till natur**. Det finns t. o. m. en särkild utredare, en *Special Rapporteur on human right and the environment*, med uppdrag att undersöka utmaningar och ge policy-rekommendationer. FN säger i rapporten *Framework Principles on Human Rights and the Environment*
 
 [^1]: 1 https://www.ohchr.org/Documents/Issues/Environment/SREnvironment/FrameworkPrinciplesUserFriendlyVersion.pdf
 
@@ -69,13 +71,15 @@ En annan är att minska antal besökare, att vara mer restriktiv. Men hur ska be
 
 
 
-Med en prislapp tar vi hänsyn till två näringar - inte allemansrätten. Med pengar i plånboken kan man fortsätta njuta av den svenska fjällvärlden. Annars inte.
+**Pengar?** Med en prislapp tar vi hänsyn till två näringar - inte allemansrätten. Med pengar i plånboken kan man fortsätta njuta av den svenska fjällvärlden. Annars inte.
 
-En annan väg är att lotta ut ett begränsat antal inträden. Eller göra besök svårare, minska service, färre vägar och entreér och kräva mer av besökaren. Då skulle "riktiga friluftsmänniskor" premieras. Och andra ställas utanför. 
+**Slumpen?** En annan väg är att lotta ut ett begränsat antal inträden. Då styr inte plånboken. Vissa kommer inte in men tillgången är rättvist fördelad.
 
-Idag finns få möjligheter att reglera allemansrätten - ”*alla skall ha tillgång till naturen enligt allemansrätten*” har stöd i Sveriges grundlag. Kanske kan man operationalisera att den som nyttjar allemansrätten eller annars vistas i naturen ska "*visa hänsyn och varsamhet i sitt umgänge med den*”?
+**Ansträngning?** Eller göra besök svårare, minska service, färre vägar och entreér och kräva mer av besökaren. Då skulle "riktiga friluftsmänniskor" premieras. Och andra ställas utanför. 
 
-Besöksnäringens slitage i fjällvärlden är en klassisk **tragedy of the commons** som vi i Sverige tills nu kommit undan med våra stora vidder och få människor i naturen. 
+Idag finns få möjligheter att reglera allemansrätten. Att ”*alla skall ha tillgång till naturen enligt allemansrätten*” har stöd i Sveriges grundlag. Man ska dock "*visa hänsyn och varsamhet i sitt umgänge med den*”. 
+
+Besöksnäringens slitage i fjällvärlden är en klassisk [tragedy of the commons](https://sv.wikipedia.org/wiki/Allmänningens_dilemma); det är något som vi i Sverige, tills nu, sluppit tänka på tack våra stora vidder och få människor som nyttjas sin allemansrätt. 
 
 
 
