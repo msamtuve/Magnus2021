@@ -1,7 +1,7 @@
 ---
-title: Förena ekologi och arkitektur i tidiga skeden
-subtitle:
-summary: Ett brobyggande arbete för att förena ekologi med arkitektur/stadsplanering i ett tidigt skede.
+title: Utmaningar för arkitekter!
+subtitle: Vilka är utmanignarna för arkitekter att integrera ekosystemtjänster i i sitt arbete?
+summary:
 tags:
 - ekosystemtjänster
 - stadsutveckling
@@ -9,7 +9,9 @@ tags:
 - arkitektur
 categories:
 date: "2017-12-15"
-image: 
+image:
+  caption: Det finns många utmaningar med att jobba med ekosystemtjänster.
+  focal_point: Smart
 draft: 
 ---
 
