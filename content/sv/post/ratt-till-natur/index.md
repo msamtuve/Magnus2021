@@ -1,44 +1,34 @@
 ---
-title: Vem har rätt till fjällen?
-
+title: Vem har rätt till naturen?
 subtitle: SVT:s reportage "Vem har rätt till fjällen?" är en fråga som gäller mycket mer än den svenska fjällvärlden.
-
 authors:
 - admin
-
-# Summary for listings and search engines
-summary: Om SVTs reportage - Vem har rätt till fjällen? "Frågan ställs just nu på sin spets i Jämtlandsfjällen."
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2021-04-24"
-
-# Date updated
-lastmod: ""
-
-# Is this an unpublished draft?
-draft: no
-
-# Show this page in the Featured widget?
-featured: yes
-
 categories: 
 - opinion
 - artikel
-
 tags: 
 - ekosystemtjänster
 - konflikt
 - mentala modeller
 - beslutsfattande
-
 image:
   caption: 'SVT reportage'
   focal_point: ""
   placement: 2
   preview_only: yes
+
+# Summary for listings and search engines
+summary: Om SVTs reportage - Vem har rätt till fjällen? "Frågan ställs just nu på sin spets i Jämtlandsfjällen."
+# Link this post with a project
+projects: []
+# Date published
+date: "2021-04-24"
+# Date updated
+lastmod: ""
+# Is this an unpublished draft?
+draft: no
+# Show this page in the Featured widget?
+featured: yes
 ---
 
 **Vem har rätt till naturen?** Varför ska någon ha mer rätt till natur än någon annan? Olika rättigheter står mot varandra.

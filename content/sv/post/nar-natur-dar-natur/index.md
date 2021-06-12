@@ -1,43 +1,36 @@
 ---
 title: Vilken natur räknas? När-natur och där-natur. 
-
 subtitle: …
 authors:
 - admin
-
-# Summary for listings and search engines
-summary: …
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2021-04-24"
-
-# Date updated
-lastmod: ""
-
-# Is this an unpublished draft?
-draft: yes
-
-# Show this page in the Featured widget?
-featured: yes
-
 categories: 
 - opinion
 - artikel
-
 tags: 
 - hälsa
 - stress
 - ekosystemtjänster
-
 image:
   caption: 'En konceptuell modell av hur EST uppstår, av Amanda Nahlik.'
   focal_point: ""
   placement: 2
   preview_only: false
+
+# Summary for listings and search engines
+summary: …
+# Link this post with a project
+projects: []
+# Date published
+date: "2021-04-24"
+# Date updated
+lastmod: ""
+# Is this an unpublished draft?
+draft: yes
+# Show this page in the Featured widget?
+featured: yes
 ---
+
+
 
 **Vem har rätt till naturen?** Varför ska någon ha mer rätt till natur än någon annan? 
 
