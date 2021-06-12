@@ -1,7 +1,7 @@
 ---
-title: Utmaningar för arkitekter att integrera ekosystemtjänster
-subtitle: Forskning för att förena arkitektur med ekologi.
-summary:
+title: Förena ekologi och arkitektur i tidiga skeden
+subtitle:
+summary: Ett brobyggande arbete för att förena ekologi med arkitektur/stadsplanering i ett tidigt skede.
 tags:
 - ekosystemtjänster
 - stadsutveckling
@@ -10,19 +10,19 @@ tags:
 categories:
 date: "2017-12-15"
 image: 
-  {{< figure src="utmaningar.png" caption="Arkitekter ser många utmaningar med att inkludera de värden som stadens gröna strukturer ger boende. Vilka är dessa utmaningar?" >}}
-  focal_point: Smart
-
-draft: false
+draft: 
 ---
-
-
 
 Detta arbetet avser inte att vederlägga en bestämd hypotes eller uppfattning utan snarare identifiera frågor och utmaningar som kan, och bör, vidare problematiseras och undersökas. Förhoppningsvis bidrar rapporten till fortsatt diskussion och att steg tas för att djupare och bredare engagera arkitekter i synliggörandet av ekosystemtjänster värde.
 
 I rapporten presenteras tre förslag, till stöd för att arkitekter ska kunna integrera ekosystemtjänster i sitt verksamhet. Dessa förslag kan förverkligas i en kombination av akademisk forskning och praktiknära projekt. Rapportens förslag ska ses som ”en primer” för att väcka frågor, ett arbete med syfte att inspirera till att steg tas för att arbeta med de utmaningar som arkitekter idag står inför i sitt arbete med att konkretisera hållbar stadsutveckling. Det tre förslagen relaterar till hur uppdrag formuleras, till hur stadens gröna strukturer och ekosystemtjänster kan gestaltas och till hur frågan hur gröna strukturer och ekosystemtjänster ska förvaltas.
 
 Här hittar du rapporten: [Från Policy till Praktik - Utmaningar för arkitekter att integrera ekosystemtjänster](https://drive.google.com/open?id=1EB_ng9Z86sAnhH5lOAYRL1_QmVVfUwfv)
+
+Sprid och använd gärna detta arbete men hänvisa till källa.
+[Creative Commons](https://creativecommons.org/licenses/by/3.0/)
+
+
 
 ## Tre utmaningar funna i genomförda intervjuer & tre möjliga lösningar
 
@@ -39,16 +39,10 @@ Här hittar du rapporten: [Från Policy till Praktik - Utmaningar för arkitekte
 > Lösning: En **adaptiv planerings- och byggprocess**. Tänkande som tar avstamp i reduktionism och linjärt tänkande är illa lämpat för att hantera komplexa utmaningar. Adaptiv förvaltning betonar värdet av experimentell planering, kontinuerlig uppföljning och löpande anpassning efter erfarenheter. 
 
 
-Sprid och använd gärna detta arbete men hänvisa till källa.
-[Creative Commons](https://creativecommons.org/licenses/by/3.0/)
-
-Rapport skickas på begäran.
 
 Författare är Magnus Tuvendal och Karl Samuelsson (fil.kand Arkitektur, projektmedverkan ingår som praktik i Magisterprogrammet Social-ekologisk resiliens för hållbar samhällsutveckling, Stockholms universitet).
 
 {{< figure src="linjar_problem.png" title="Problemlösning som stegvis linjär process." >}}
 
 {{< figure src="utmaningar.png" title="Vilka utmaningar ser aktitekter med att arbeta med ekosystemtjänster?" >}}
-
-
 
