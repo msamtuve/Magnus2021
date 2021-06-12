@@ -17,7 +17,6 @@ image:
   placement: 2
   preview_only: false
 
-
 # Summary for listings and search engines
 summary: Om SVTs reportage - Vem har rätt till fjällen? "Frågan ställs just nu på sin spets i Jämtlandsfjällen."
 # Link this post with a project
@@ -66,7 +65,7 @@ En annan är att minska antal besökare, att vara mer restriktiv. Men hur ska be
 
 Idag finns få möjligheter att reglera allemansrätten. Att ”*alla skall ha tillgång till naturen enligt allemansrätten*” har stöd i Sveriges grundlag. Man ska dock "*visa hänsyn och varsamhet i sitt umgänge med den*”. 
 
-Besöksnäringens slitage i fjällvärlden är en klassisk [tragedy of the commons](https://sv.wikipedia.org/wiki/Allmänningens_dilemma); det är något som vi i Sverige, tills nu, sluppit tänka på tack våra stora vidder och få människor som nyttjas sin allemansrätt. 
+Besöksnäringens slitage i fjällvärlden är en klassisk [tragedy of the commons](https://sv.wikipedia.org/wiki/Allmänningens_dilemma); det är något som vi i Sverige, tills nu, sluppit tänka på tack våra stora vidder och få människor som nyttjar sin allemansrätt. 
 
 
 
