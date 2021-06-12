@@ -1,5 +1,5 @@
 ---
-title: EN svensk färdplan för att accelerera hållbarhet!
+title: En svensk färdplan för att accelerera hållbarhet!
 subtitle: Del av EU-projektet ARTS (Accelerating and Rescaling Transitions to Sustainability)
 summary: En färdplan från EU-projektet ARTS (Accelerating and Rescaling Transitions to Sustainability) som visar hur lokala initiativ – privata, offentliga och ideella – kan bidra till en mer genomgripande och snabbare omställning till hållbar utveckling.
 tags:
@@ -14,7 +14,7 @@ image:
 
 url_pdf: ""
 url_video: ""
-ur_site: "http://acceleratingtransitions.eu"
+url_site: "http://acceleratingtransitions.eu"
 
 draft: 
 ---
