@@ -38,11 +38,7 @@ En startpunkt  är den humanistiska tanken om allas (människor) lika värde. En
 
 > Both aspects of man's environment, the natural and the man-made, are essential to his well-being and to the enjoyment of basic human rights the right to life itself. Stockholm deklaration, proclamation 1, [UNCHE Stockholm 1972](https://www.un.org/en/conferences/environment/stockholm1972).
 
-FN drar slutsatsen att **mänskliga rättigheter inbegriper rätt till natur**. Det finns t. o. m. en särkild utredare, en *Special Rapporteur on human right and the environment*, med uppdrag att undersöka utmaningar och ge policy-rekommendationer. FN säger i rapporten *Framework Principles on Human Rights and the Environment*
-
-[^1]: 1 https://www.ohchr.org/Documents/Issues/Environment/SREnvironment/FrameworkPrinciplesUserFriendlyVersion.pdf
-
-att:
+FN drar slutsatsen att **mänskliga rättigheter inbegriper rätt till natur**. Det finns t. o. m. en särkild utredare, en *Special Rapporteur on human right and the environment*, med uppdrag att undersöka utmaningar och ge policy-rekommendationer. FN säger i rapporten *[Framework Principles on Human Rights and the Environment](https://www.ohchr.org/Documents/Issues/Environment/SREnvironment/FrameworkPrinciplesUserFriendlyVersion.pdf)* att:
 
 > Human beings are part of nature, and our human rights are intertwined with the environment in which we live. Environmental harm interferes with the enjoyment of human rights, and the exercise of human rights helps to protect the environment and to promote sustainable development.
 
