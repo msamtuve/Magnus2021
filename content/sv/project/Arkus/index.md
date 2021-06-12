@@ -10,9 +10,10 @@ tags:
 categories:
 date: "2017-12-15"
 image: 
+  {{< figure src="utmaningar.png" caption="Arkitekter ser många utmaningar med att inkludera de värden som stadens gröna strukturer ger boende. Vilka är dessa utmaningar?" >}}
+  focal_point: Smart
 
-
-draft: no
+draft: false
 ---
 
 
