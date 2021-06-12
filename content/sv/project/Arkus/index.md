@@ -1,7 +1,7 @@
 ---
 title: Utmaningar för arkitekter?
 subtitle: Vilka är utmaningar har arkitekter med att integrera ekosystemtjänster i sitt arbete? Ett studie finansierad av Arkus. 
-summary:
+summary: Vilka är utmaningar har arkitekter med att integrera ekosystemtjänster i sitt arbete? Ett studie finansierad av Arkus. I rapporten presenteras tre huvudsakliga utmaningar och tre förslag till lösningar.
 tags:
 - ekosystemtjänster
 - stadsutveckling
