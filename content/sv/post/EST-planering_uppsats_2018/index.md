@@ -15,22 +15,14 @@ image:
   placement: 2
   preview_only: false
 
-# Summary for listings and search engines
-summary: …
 # Link this post with a project
 projects: []
 # Date published
 date: "2018-06-11"
-# Date updated
-lastmod: ""
 # Is this an unpublished draft?
-draft: yes
-# Show this page in the Featured widget?
-featured: yes
+draft: no
 
 ---
-
-
 
 I en uppsats undersöks hur ekosystemtjänster kan ta plats och berika hur vi kan tänka och agera när vi vill både förtäta och förgröna städer. Arbetet bygger på litteraturstudier och intervjuer med aktörer som arbetar med dessa frågor. Uppsatsen ger en  inblick i hur kommuner och andra aktörer resonerar kring målkonflikter mellan förtätning och utveckling samt bevarande av urban grönstruktur. Inledningsvis formulerades tre mycket intressanta, och stora, frågor:
 
