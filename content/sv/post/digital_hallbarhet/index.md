@@ -19,7 +19,7 @@ image:
   preview_only: false
 
 # Summary for listings and search engines
-summary: …
+summary: Digital hållbarhet behöver stå på stabil grund. "Surveilance capitalism" underminerar demokratin.
 # Link this post with a project
 projects: []
 # Date published
