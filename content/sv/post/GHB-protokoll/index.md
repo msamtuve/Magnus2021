@@ -1,6 +1,5 @@
 ---
-title: Digital hållbarhet och surveilance capitalism
-subtitle: personlig integritet och personligt ansvar
+title: GRI - en växande global standard för att rapportera hållbarhet
 authors:
 - admin
 categories: 
@@ -27,12 +26,14 @@ date: "2021-04-24"
 # Date updated
 lastmod: ""
 # Is this an unpublished draft?
-draft: no
+draft: yes
 # Show this page in the Featured widget?
 featured: yes
 ---
 
-Utbudet av  verktyg som dynamiska webb-appar och software as service (saas) som vill bidra till en hållbar utveckling växer kraftigt. Som alltid när man gör en intervention i en komplex utmaning bör man fråga sig - står de på fast mark eller riskerar de att skapa mer problem än de löser? 
+Med nya verktyg som dynamiska webb-appar och software as service (saas) som vill bidra till en hållbar utveckling är det viktigt att stå på fast mark och som alltid inte skapa mer problem än man löser. 
+
+Ett skäl till denna webbplats existens är för att jag inte med gott samvete kan använda Facebook. Jag är av uppfattningen att alla statliga myndigheter och verk snarast bör lämna Facebook och nå medborgare på andra sätt.  Jag har svårt att hitta argument 	 att Facebook, och den affärsmodell som företaget bygger, på gör mer nytta än skada.
 
 Jag är en av initiativtagarna och utvecklarna av [stadsträd.se](www.stadsträd.se). Vi har byggt stadsträd.se från grunden för att inte luta oss mot tech-giganter vars affärsmodeller bygger på att spåra användare och sälja data om användare - det som kallas “[surveilance capitalism](https://news.harvard.edu/gazette/story/2019/03/harvard-professor-says-surveillance-capitalism-is-undermining-democracy/)“. Det betyder konkret att vi valt att inte använda Google maps som grundkarta. Det betyder att vi inte implementerat möjlighet att logga in till tjänsten via Facebook eller Google utan har en egen lokal funktion för inloggning och lösenord. Det betyder att vi inte använder Google analytics. Det betyder att vi inte skickar kakor till andra appar om vad användaren gör. Vi tar detta på stort allvar. Stadsträd.se delar inga data om användaren bakom ryggen av användaren. Någonsin.
 
