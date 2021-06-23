@@ -1,6 +1,6 @@
 ---
 title: Magnus Tuvendal
-role: senior miljökonsult, specialist ekosystemtjänster
+role: senior miljökonsult, särskilt värdering av naturkapital och strategisk hållbarhet
 bio: Mina intressen inkluderar hur vi kan artikulera naturens värde, hur företag kan agera hållbart och hur motstående intressen kan mötas.
 interests:
 - ekosystemtjänster i teori och praktik
