@@ -14,7 +14,7 @@ tags:
 - blogg
 
 categories:
-- share
+
 ---
 Det kommer vara stökigt här ett tag. Har uppdaterat site och håller på att lägga in "content" och sätta upp olika funktioner.
 

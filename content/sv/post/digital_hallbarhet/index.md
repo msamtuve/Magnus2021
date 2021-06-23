@@ -4,9 +4,9 @@ subtitle: personlig integritet och personligt ansvar
 authors:
 - admin
 categories: 
-- opinion
-- artikel
+
 tags: 
+- opinion
 - surveilance capitalism
 - sociala medier
 - demokrati

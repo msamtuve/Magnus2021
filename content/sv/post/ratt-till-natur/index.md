@@ -4,8 +4,6 @@ subtitle: SVT:s reportage "Vem har rätt till fjällen?" är en fråga som gäll
 authors:
 - admin
 categories: 
-- opinion
-- artikel
 tags: 
 - ekosystemtjänster
 - konflikt
