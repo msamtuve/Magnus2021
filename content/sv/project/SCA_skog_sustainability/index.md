@@ -1,13 +1,16 @@
 ---
-title: En mall
+title: Identifiera hållbarhetsmål för SCA skog
 subtitle:
-summary: Ett brobyggande arbete för att förena ekologi med arkitektur/stadsplanering i ett tidigt skede.
+summary: Under en workshop-dag i Sundsvall samlas intern expertis för att reflektera över nya hållbarhetsmål. Mini-föredrag visar på möjligheter 
+
+ 
 tags:
 - ekosystemtjänster
 - hållbarhet
 - stadsutveckling
 - samverkan
 - beslutsfattande
+
 categories:
 date: "2018-09-05"
 image: 
