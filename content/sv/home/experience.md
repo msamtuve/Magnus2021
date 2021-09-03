@@ -22,18 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Senior konsult
+    company: Calluna AB
+    company_url: 'https://calluna.se'
+    location: Stockholm
+    date_start: '2015-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+Arbetar med hållbar stadsutveckling och hållbart företagande:
+        
+        * Kartlägga och värdera ekosystemtjänster för planering och strategier
+        * Bedöma konsekvenser av interventioner, planer och beslut
+        * Kapacitetsbyggande, fortbildning och rådgivning
+        * Metodutveckling
+        * 
+
         
   - title: Professor
     company: University X
