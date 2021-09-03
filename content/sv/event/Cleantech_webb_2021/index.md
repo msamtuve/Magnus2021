@@ -3,7 +3,7 @@ title: Fastighetsägares naturkapital – en bortglömd resurs för attraktiva o
 event: Cleantech Östergötland
 event_url: https://cleantechostergotland.se/kalendarium/webinar-cleantech-ostergotland-kunskap-acceleratorn-i-transformationen-for-hallbar-utveckling-5
 
-summary: Kraven på att företag och organisationer ska värdera och ta hänsyn till ekosystemtjänster ökar snabbt – genom myndighetskrav, lagstiftning och inte minst dess centrala roll i Aganda 2030 och de Globala hållbarhetsmålen. Under denna heldagsutbildning får du lära dig hur du kartlägger, mäter och värderar ekosystemtjänster utifrån verktyg, metoder och utredningar och hur resultatet av dessa kan användas i allt från beslutsprocesser till hållbarhets­redo­visningar och kommunikation.
+summary: Fastighetsägare och kommun behöver var för sig och gemensamt ta sig an utmaningen att klimatsäkra fastigheter och bebyggd miljö. Med naturbaserade lösningar öppnas möjlighet att klimatanpassa och samtidigt få andra nyttor när det gäller miljökvalitet, hälsa och attraktivitet.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -12,7 +12,7 @@ date_end: "2021-08-13T09:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-09-03T00:00:00Z"
 
 authors: []
 tags: 
