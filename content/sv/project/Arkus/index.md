@@ -15,7 +15,9 @@ image:
 draft: 
 ---
 
-Vilka är utmaningar har arkitekter med att integrera ekosystemtjänster i sitt arbete? Ett studie finansierad av Arkus. I rapporten presenteras tre huvudsakliga utmaningar och tre förslag till lösningar. Dessa förslag kan förverkligas i en kombination av akademisk forskning och praktiknära projekt. 
+Vilka är utmaningar har arkitekter med att integrera ekosystemtjänster i sitt arbete? Frågan studeras och besvaras i en studie finansierad av Arkus. I rapporten presenteras tre huvudsakliga utmaningar och tre förslag till lösningar. Dessa förslag kan förverkligas i en kombination av akademisk forskning och praktiknära projekt. 
+
+Studien har nu ett par år på nacken. Den är intressant för de frågor och lösnignar som lyfts fram. Den är också intressant att reflektera över om dessa frågor idag, nu, hanteras bättre; eller om det är andra utmaningar som är mer centrala för att förverkliga naturbaserad hållbar stadsutveckling?.
 
 Förhoppningsvis bidrar rapporten till fortsatt diskussion och att steg tas för att djupare och bredare engagera arkitekter i synliggörandet av ekosystemtjänster värde.
 
