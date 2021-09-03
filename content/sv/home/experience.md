@@ -30,15 +30,6 @@ experience:
     date_end: ''
     description: |2-
         
-Arbetar med hållbar stadsutveckling och hållbart företagande:
-        
-        * Kartlägga och värdera ekosystemtjänster för planering och strategier
-        * Bedöma konsekvenser av interventioner, planer och beslut
-        * Kapacitetsbyggande, fortbildning och rådgivning
-        * Metodutveckling
-        * 
-
-        
   - title: Professor
     company: University X
     company_url: ''
