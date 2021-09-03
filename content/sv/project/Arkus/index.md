@@ -21,7 +21,7 @@ Förhoppningsvis bidrar rapporten till fortsatt diskussion och att steg tas för
 
 Rapportens förslag ska ses som ”en primer” för att väcka frågor, ett arbete med syfte att inspirera till att steg tas för att arbeta med de utmaningar som arkitekter idag står inför i sitt arbete med att konkretisera hållbar stadsutveckling. Det tre förslagen relaterar till hur uppdrag formuleras, till hur stadens gröna strukturer och ekosystemtjänster kan gestaltas och till hur frågan hur gröna strukturer och ekosystemtjänster ska förvaltas.
 
-Här hittar du rapporten: [Från Policy till Praktik - Utmaningar för arkitekter att integrera ekosystemtjänster](https://drive.google.com/open?id=1EB_ng9Z86sAnhH5lOAYRL1_QmVVfUwfv). Sprid och använd gärna detta arbete men hänvisa till källa, [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+Här hittar du rapporten: [Från Policy till Praktik - Utmaningar för arkitekter att integrera ekosystemtjänster](https://drive.google.com/file/d/1-YQWBYl-M6tGpkFl4Mup0fFEK0UH3RfG/view?usp=sharing). Sprid och använd gärna detta arbete men hänvisa till källa, [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 
 
 
