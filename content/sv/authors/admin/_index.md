@@ -4,7 +4,7 @@ role: senior miljökonsult, särskilt naturens värde, ekosystemtjänster och st
 bio: Mina intressen inkluderar hur vi kan implementera ekologisk hållbarhet, hur företag kan agera hållbart och hur motstående intressen kan mötas.
 interests:
 - hur vi kan bättre artikulera naturens värde, särskilt ekosystemtjänster, för avvägningar och beslut
-- företags möjligheter at agera hålbart
+- sammanvägda bedömningar av hållbarhet, särskilt för näringsliv
 - vägar för att framgångsrikt arbeta tillsammans när motstående intressen möts
 social:
   - icon: envelope
