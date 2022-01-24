@@ -17,7 +17,7 @@ focal_point: Smart
 url_pdf: ""
 url_video: "https://youtu.be/0OZB0SqBCU0"
 
-draft: 
+draft: yes
 ---
 
 En utmaning för stadsbyggande är hur ekologi kan informera planering, gestaltning och byggande. Ofta kommmer viktig information sent. En plats har programmerats, gestaltats, en skiss ligger klar. Först nu görs inventeringar och utredningar. I värsta fall blir ekologi en övning i att pynta ett område, en grön fernissa som inte på djupet tar vara på de värden (ekologiska) platsen har eller kan få.
