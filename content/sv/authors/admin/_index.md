@@ -45,7 +45,7 @@ Magnus Tuvendal arbetar på Calluna särskilt med frågan hur ekosystemtjän
 
 {{< icon name="download" pack="fas" >}} Ladda ned {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV, mars 2021{{< /staticref >}}.
 
-{{% callout note %}} OBS - denna sida än under uppbyggnad under sep 2021. Gammalt och nytt publiceras efterhand. :-) {{% /callout %}}
+{{% callout note %}} OBS - denna sida än under revision 2022 (teknikskifte). Gammalt och nytt publiceras efterhand. :-) {{% /callout %}}
 
  
 

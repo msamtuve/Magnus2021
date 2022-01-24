@@ -43,5 +43,5 @@ Magnus Tuvendal is, as a consultant at Calluna AB, particularly focused on how E
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV (swedish), mars 2021{{< /staticref >}}.
 
-{{% callout note %}}  This site is being rebuild, sep 2021. {{% /callout %}}
+{{% callout note %}}  This site is being rebuild, 2022. Change of tech foundation {{% /callout %}}
 
