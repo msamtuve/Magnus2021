@@ -1,8 +1,8 @@
 ---
 title: Magnus Tuvendal
-role: senior miljökonsult, särskilt naturens värde, ekosystemtjänster och strategisk hållbarhet. PhD sustainability science /naturresurshushållning.
+role: Senior miljökonsult. Naturkapital/ekosystemtjänster, mäta och kommunicera ekologisk hållbarhet för beslut och strategi. PhD Sustainability Science/Naturresurshushållning
 
-bio: Mina intressen inkluderar hur vi kan implementera ekologisk hållbarhet, hur företag kan agera hållbart och hur motstående intressen kan mötas.
+bio: Mina intressen inkluderar hur vi kan artikulera naturens värde och implementera detta i kloka beslut, företags möjligheter att agera strategiskt hållbar.t och hur samarbete kan skapas när motstående intressen möts
 
 interests:
 Mina intressen inkluderar hur vi kan artikulera naturens värde och implementera detta i kloka beslut, företags möjligheter att agera strategiskt hållbart och hur samarbete kan skapas när motstående intressen möts. 
@@ -31,7 +31,7 @@ organizations:
     url: https://www.calluna.se/
 education:
   courses:
-    - course: PhD i Sustainability Science, Naturresurshushållning
+    - course: PhD Sustainability Science/Naturresurshushållning
       institution: Stockholm Resilience Centre, Stockholms universitet
       year: 2012
 #    - course: MSc Biologi, MSc Ekotoxikology
@@ -42,7 +42,7 @@ superuser: true
 highlight_name: false
 ---
 
-Magnus Tuvendal arbetar särskilt med ekologisk hållbarhet och hur naturkapital och ekosystemtjänster i beslut och stödja en hållbar samhällsutveckling. Magnus är en tvärvetenskaplig systemtänkare och arbetar både med dataanalys och med de processer som krävs för att åstadkomma förändring. Han har erfarenhet av att leda projekt i samarbete med företag, statliga verk och myndigheter. Magnus är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
+Magnus Tuvendal är en tvärvetenskaplig systemtänkare och arbetar både med analys och med de processer som krävs för att åstadkomma förändring. Han har erfarenhet av att leda projekt i samarbete med företag, statliga verk och myndigheter. Magnus är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
 
 {{< icon name="download" pack="fas" >}} Ladda ned {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV, mars 2021{{< /staticref >}}.
 
