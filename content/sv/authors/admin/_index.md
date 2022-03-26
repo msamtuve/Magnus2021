@@ -33,15 +33,15 @@ education:
     - course: PhD i Sustainability Science, Naturresurshushållning
       institution: Stockholm Resilience Centre, Stockholms universitet
       year: 2012
-    - course: MSc Biologi, MSc Ekotoxikology
-      institution: Uppsala universitet
-      year: 1995
+#    - course: MSc Biologi, MSc Ekotoxikology
+#      institution: Uppsala universitet
+#      year: 1995
 email: "magnus.tuvendal@gmail.com"
 superuser: true
 highlight_name: false
 ---
 
-Magnus Tuvendal arbetar på Calluna särskilt med frågan hur ekosystemtjänster kan synliggöras i beslut och stödja en hållbar samhällsutveckling. Magnus är en tvärvetenskaplig systemtänkare och arbetar både med dataanalys och med de processer som krävs för att åstadkomma förändring. Han har erfarenhet av att leda projekt i samarbete med företag, statliga verk och myndigheter. Magnus är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
+Magnus Tuvendal arbetar särskilt med ekologisk hållbarhet och hur naturkapital och ekosystemtjänster i beslut och stödja en hållbar samhällsutveckling. Magnus är en tvärvetenskaplig systemtänkare och arbetar både med dataanalys och med de processer som krävs för att åstadkomma förändring. Han har erfarenhet av att leda projekt i samarbete med företag, statliga verk och myndigheter. Magnus är prisbelönt för sina insatser inom lärande för hållbar utveckling i Sverige. Magnus har tidigare arbetat som forskare på Stockholm Resilience Centre, som analytiker på Forskningsgruppen för miljöstrategiska studier (FOI) och som föreståndare för Centrum för miljö- och utvecklingsstudier (Cemus), Uppsala universitet.
 
 {{< icon name="download" pack="fas" >}} Ladda ned {{< staticref "https://drive.google.com/drive/folders/1Yp5-Y5GpCx5XR7TSvNZHh9pttqIDM0fA?usp=sharing" "newtab" >}}CV, mars 2021{{< /staticref >}}.
 
