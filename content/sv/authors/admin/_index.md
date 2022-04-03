@@ -5,7 +5,9 @@ role: Senior miljökonsult. Naturkapital/ekosystemtjänster, mäta och kommunice
 bio: Mina intressen inkluderar hur vi kan artikulera naturens värde och implementera detta i kloka beslut, företags möjligheter att agera strategiskt hållbart och hur samarbete kan skapas när motstående intressen möts
 
 interests: 
-- Mina intressen inkluderar hur vi kan artikulera naturens värde och implementera detta i kloka beslut, företags möjligheter att agera strategiskt hållbart och hur samarbete kan skapas när motstående intressen möts. 
+- hur vi kan artikulera naturens värde och implementera detta i kloka beslut
+- företags möjligheter att agera strategiskt hållbart
+- hur samarbete kan skapas när motstående intressen möts. 
 
 social:
   - icon: envelope
