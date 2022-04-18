@@ -1,9 +1,8 @@
 ---
 title: Vilka är fördelarna för din hälsa med att vistas i naturen och vilken natur räknas?
 
-event: Aktuell Hållbarhet
-event_url: 
-https://www.mynewsdesk.com/se/calluna/events/foeredrag-haelsofoerdelar-med-natur-98100
+event: Calluna AB
+event_url: https://www.mynewsdesk.com/se/calluna/events/foeredrag-haelsofoerdelar-med-natur-98100
  
 location: distans/på överenskommen plats
 
@@ -47,8 +46,4 @@ I Callunas inspirationsföredrag om hälsofördelarna med natur går vi igenom: 
 **Pris**: 8.500 kr exkl. moms. Grundpris för distansföredrag.
 **Datum**: lämplig dag och tid diskuteras vid bokning.
 **Plats**: föredragshållaren deltar via videolänk. Kan även arrangeras på plats hos beställaren.
-**Bokning och frågor**: kontakta magnus.tuvendal@calluna.se.
-
-
-
-{{< figure src="program_AH_2021.jpg" title="Kursdag. Program kan justeras." >}}
+**Bokning och frågor**: kontakta magnus.tuvendal@calluna.se.line
