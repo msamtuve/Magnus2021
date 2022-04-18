@@ -11,8 +11,8 @@ tags:
 - omställning
 - arkitekt
 image:
-  caption: 'Photo: Chris Yang'
-  focal_point: "Smart"
+  caption: 'Mobil vy, [Stadsträd.se](www.stadstrad.se)'
+  focal_point: "Right"
   placement: 2
   preview_only: false
 
