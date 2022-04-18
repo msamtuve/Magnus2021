@@ -3,9 +3,7 @@ title: Vilka är fördelarna för din hälsa med att vistas i naturen och vilken
 
 event: Calluna AB
 event_url: https://www.mynewsdesk.com/se/calluna/events/foeredrag-haelsofoerdelar-med-natur-98100
- 
-location: distans eller på överenskommen plats
-
+location: distans
 summary: I detta inspirationsföredrag om hälsofördelarna med natur går vi igenom: Vad är natur? Vilken natur räknas? Det kostar att bo i städer! Vilka är hälsofördelarna med att vara i naturen? Hur länge och hur ofta bör du vara i naturen? Vilken natur är tillgänglig för just er? 
 
 # Talk start and end times.
