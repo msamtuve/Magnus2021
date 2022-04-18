@@ -16,12 +16,14 @@ all_day: false
 publishDate: "2022-01-01T00:00:00Z"
 
 authors: []
-tags: []
+tags:
+- ekosystemtjänster
+- hälsa
 
 # Is this a featured talk? (true/false)
 featured: false
 image:
-  caption: 'Närnatur - den natur vi exponeras för varje dag.'
+  caption: 'Närnatur - den natur vi exponeras för varje dag. Foto: Magnus Tuvendal '
   focal_point: ""
   placement: 2
   preview_only: false
