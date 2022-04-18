@@ -8,8 +8,8 @@ summary: Ett inspirationsföredrag om hälsofördelarna med natur. Vad är natur
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-01-01"
-date_end: "2022-12-15"
+date: "2022-01-01T09:00:00Z"
+date_end: "2022-12-15T16:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
