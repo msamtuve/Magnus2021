@@ -3,8 +3,8 @@ title: Vilka är fördelarna för din hälsa med att vistas i naturen och vilken
 
 event: Calluna AB
 event_url: https://www.mynewsdesk.com/se/calluna/events/foeredrag-haelsofoerdelar-med-natur-98100
-location: distans
-summary: Ett inspirationsföredrag om hälsofördelarna med natur går vi igenom. Vad är natur? Vilken natur räknas? Det kostar att bo i städer! Vilka är hälsofördelarna med att vara i naturen? Hur länge och hur ofta bör du vara i naturen? Vilken natur är tillgänglig för just er? 
+location: distans (eller på plats hos beställaren)
+summary: Ett inspirationsföredrag om hälsofördelarna med natur. Vad är natur? Vilken natur räknas? Det kostar att bo i städer! Vilka är hälsofördelarna med att vara i naturen? Hur länge och hur ofta bör du vara i naturen? Vilken natur är tillgänglig för just er? 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -20,7 +20,11 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
-
+image:
+  caption: 'Närnatur - den natur vi exponeras för varje dag.'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
