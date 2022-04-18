@@ -17,7 +17,7 @@ image:
   preview_only: false
 
 # Summary for listings and search engines
-summary: Nu är det möjligt att med en knapptryckning beräkna trädens ekosystemtjänster för en fastigheten, en parkens eller en stadsdel. 
+summary: Nu är det möjligt att med en knapptryckning beräkna trädens ekosystemtjänster för en fastighete, en park eller en stadsdel. 
 # Link this post with a project
 projects: []
 # Date published
