@@ -11,7 +11,7 @@ tags:
 - digital hållbarhet
 - stadsträd.se
 image:
-  caption: 'Photo: Magnus Tuvendal'
+  caption: 'Skärmbild, dator.'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -45,7 +45,7 @@ Det som omedelbart beräknas är:
 
 Det som behövs för att beräkna ekosystemtjänster är en [trädkartläggning utifrån laserdata](https://info.stadstrad.se/kartlggning) (LiDAR). 
 
-Vi gör vissa antagande och har tränat modellen med statistisk analys av träd från en svensk tätort där vi med data från 17000 träd. Resultatet är en approximation av det resultat man skulle få efter en fullständig inventering av områdets alla träd (som är både kostsam och tidsödande) och beräkning av ekosystemtjänster med iTreeECO. 
+Vi gör vissa antagande och har tränat modellen med statistisk analys av träd från en svensk tätort där vi har data från 17000 träd. Resultatet är en approximation av det resultat man skulle få efter en fullständig inventering av områdets alla träd (som är både kostsam och tidsödande) och beräkning av ekosystemtjänster med iTreeECO. 
 
 {{< figure src="EST_utan_inventering.png" title="Stadsträd.se har byggt in en funktion för *Rapid assessment of ecosystem services* - omedelbar beräkning av ekosystemtjänster från urbana träd." >}}
 

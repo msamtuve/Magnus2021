@@ -24,18 +24,7 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-  - name: Ekosystemtjänster
-    tag: Ekosystemtjänster 
-  - name: Samverkan
-    tag: Samverkan
-  - name: ÖP
-    tag:  ÖP
-  - name: DP
-    tag: DP
-
+# Jag har tagit bort enligt ovan punkt. Se mall/kopia för at återställa.
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
