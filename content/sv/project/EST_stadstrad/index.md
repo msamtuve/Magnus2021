@@ -1,5 +1,5 @@
 ---
-title: Synliggöra trädens ekosystemtjänster utan inventering - "rapid assessment of ecosystem services"
+title: Synliggöra trädens ekosystemtjänster utan inventering - rapid assessment of ecosystem services
 authors:
 - admin
 categories: 
