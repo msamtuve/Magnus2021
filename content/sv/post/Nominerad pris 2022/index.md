@@ -34,7 +34,7 @@ Med stor uppskattning tackar vi, som står bakom [stadsträd.se](http://www.stad
 
 "ACAN Sverige, som tidigare hette Architects for future, är ett nätverk för individer som jobbar inom arkitektur eller byggd miljö och som verkar för att minska byggbranschens klimatpåverkan och för att prioritera biologisk mångfald. Med det nya priset [Tänk om](https://arkitekten.se/nyheter/acan-sverige-nominerar-fem-projekt-for-omstallning/) vill man uppmärksamma projekt som kan bidra till att flytta gränser och normer eller ge tekniska förutsättningar för att minska byggbranschens klimatpåverkan." 
 
-Ur juryns motivering: ”En levande miljö och vitala ekosystem är nödvändigt för motståndskraft även i urbana miljöer. Stadsträd.se lyfter vikten av träden och samlar data som gör det lättare att inkludera befintliga träd i arkitekturprojekt, från tidiga planeringsskeden och framåt. ”
+> Ur juryns motivering: ”En levande miljö och vitala ekosystem är nödvändigt för motståndskraft även i urbana miljöer. Stadsträd.se lyfter vikten av träden och samlar data som gör det lättare att inkludera befintliga träd i arkitekturprojekt, från tidiga planeringsskeden och framåt. ”
 
 Vi gratulerar också vinnaren "Plockhugget".
 
