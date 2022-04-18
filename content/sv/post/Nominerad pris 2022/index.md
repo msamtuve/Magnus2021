@@ -12,7 +12,7 @@ tags:
 - arkitekt
 image:
   caption: 'Photo: Chris Yang'
-  focal_point: ""
+  focal_point: "Smart"
   placement: 2
   preview_only: false
 
