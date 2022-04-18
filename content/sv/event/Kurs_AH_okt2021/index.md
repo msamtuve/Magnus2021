@@ -10,12 +10,12 @@ summary: Kraven på att företag och organisationer ska värdera och ta hänsyn 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-10-13T09:00:00Z"
-date_end: "2021-10-13T16:30:00Z"
+date: "2022-05-03T09:00:00Z"
+date_end: "2022-05-03T16:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-08-30T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -38,3 +38,5 @@ En heldag.
 Kraven på att företag och organisationer ska värdera och ta hänsyn till ekosystemtjänster ökar snabbt – genom myndighetskrav, lagstiftning och inte minst dess centrala roll i Aganda 2030 och de Globala hållbarhetsmålen. Under denna heldagsutbildning får du lära dig hur du kartlägger, mäter och värderar ekosystemtjänster utifrån verktyg, metoder och utredningar och hur resultatet av dessa kan användas i allt från beslutsprocesser till hållbarhets­redo­visningar och kommunikation.
 
 {{< figure src="program_AH_2021.png" title="Kursdag, program." >}}
+
+{{< figure src="figur_5.png" title= "Argument för förtätning." >}}
