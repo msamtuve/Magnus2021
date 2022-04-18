@@ -37,6 +37,4 @@ En heldag.
 
 Kraven på att företag och organisationer ska värdera och ta hänsyn till ekosystemtjänster ökar snabbt – genom myndighetskrav, lagstiftning och inte minst dess centrala roll i Aganda 2030 och de Globala hållbarhetsmålen. Under denna heldagsutbildning får du lära dig hur du kartlägger, mäter och värderar ekosystemtjänster utifrån verktyg, metoder och utredningar och hur resultatet av dessa kan användas i allt från beslutsprocesser till hållbarhets­redo­visningar och kommunikation.
 
-{{< figure src="program_AH_2021.png" title="Kursdag, program." >}}
-
-{{< figure src="figur_5.png" title= "Argument för förtätning." >}}
+{{< figure src="program_AH_2021.jpg" title="Kursdag. Program kan justeras." >}}
