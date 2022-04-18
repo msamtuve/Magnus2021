@@ -47,7 +47,7 @@ Det som behövs för att beräkna ekosystemtjänster är en [trädkartläggning 
 
 Vi gör vissa antagande och har tränat modellen med statistisk analys av träd från en svensk tätort där vi med data från 17000 träd. Resultatet är en approximation av det resultat man skulle få efter en fullständig inventering av områdets alla träd (som är både kostsam och tidsödande) och beräkning av ekosystemtjänster med iTreeECO. 
 
-{{< figure src="EST_utan_inventering.png" title="Stadsträd.se har byggs in en funktion för "Rapid assessment of ecosystem services" - omedelbar beräkning av ekosystemtjänster från urbana träd." >}}
+{{< figure src="EST_utan_inventering.png" title="Stadsträd.se har byggt in en funktion för *Rapid assessment of ecosystem services* - omedelbar beräkning av ekosystemtjänster från urbana träd." >}}
 
 Projektet redovisas i rapporten [Nationell kartläggning av trädtäckning i städer och tätorter](https://www.boverket.se/sv/om-boverket/publicerat-av-boverket/publikationer/2021/nationell-kartlaggning-av-tradtackning-i-stader-och-tatorter/). 
 
