@@ -11,7 +11,7 @@ tags:
 - omställning
 - arkitekt
 image:
-  caption: 'Mobil vy, [Stadsträd.se](www.stadstrad.se)'
+  caption: 'Mobil vy, [Stadsträd.se](http://www.stadstrad.se)'
   focal_point: "Right"
   placement: 2
   preview_only: false
@@ -30,7 +30,7 @@ draft: no
 # featured: yes
 ---
 
-Med stor uppskattning tackar vi, som står bakom [stadsträd.se](www.stadstrad.se), **ACAN, Architects climate action network** för nomineringen. 
+Med stor uppskattning tackar vi, som står bakom [stadsträd.se](http://www.stadstrad.se), **ACAN, Architects climate action network** för nomineringen. 
 
 "ACAN Sverige, som tidigare hette Architects for future, är ett nätverk för individer som jobbar inom arkitektur eller byggd miljö och som verkar för att minska byggbranschens klimatpåverkan och för att prioritera biologisk mångfald. Med det nya priset [Tänk om](https://arkitekten.se/nyheter/acan-sverige-nominerar-fem-projekt-for-omstallning/) vill man uppmärksamma projekt som kan bidra till att flytta gränser och normer eller ge tekniska förutsättningar för att minska byggbranschens klimatpåverkan." 
 
