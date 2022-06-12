@@ -1,5 +1,5 @@
 ---
-title: Nominerad till priset "Tänk om" 2022
+title: Nominerad till klimatpriset "Tänk om" 2022
 authors:
 - admin
 categories: 
