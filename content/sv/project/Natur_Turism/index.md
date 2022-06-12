@@ -24,7 +24,7 @@ Konflikten mellan naturvårdande bevarandeinsatser och människors nyttjande a
 
 Har man flera samtidiga mål, som rekreation och naturskydd, är en stor utmaning att hitta de metoder och åtgärder för förvaltning och skötsel som ger bäst resultat sett till helheten av vad man vill åstadkomma. Här finns möjligheter att hitta åtgärder som är win-win – som både stärker naturskydd och upplevelsevärden. Vi presenterer och diskuterar sexton olika principiella lösningar och synliggör konflikter i en fyrfältare där två ekosystemtjänster tår mot varandra. 
 
-{{< figure src="besokare.jpg" title= "Besökares motiv till att besöka Måkläppen. Från enkätstudie." >}}
+{{< figure src="besokare.jpg" title= "Besökares motiv till att besöka Måkläppen är bredare än att se sälar på nära håll (vilket sedan 2022 förhindras).  Från enkätstudie." >}}
 
 {{< figure src="EST-trade-offs.png" title= "En fyrfältare som synliggör avvägningar. 16 handlingsalternativ diskuteras och placeras i fyrfältaren." >}}
 
