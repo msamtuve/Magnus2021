@@ -26,6 +26,6 @@ Konflikten mellan naturvårdande bevarandeinsatser och människors nyttjande a
 
 {{< figure src="besokare.jpg" title= "Besökares motiv till att besöka Måkläppen. Från enkätstudie." >}}
 
-{{< figure src="EST-trade-off.png" title= "En fyrfältare för att analysera handlingsvägar och synliggöra påverkan på två ekosystemtjänster." >}}
+{{< figure src="EST-trade-offs.png" title= "En fyrfältare för att analysera handlingsvägar och synliggöra påverkan på två ekosystemtjänster." >}}
 
 **Rapport**: *Tuvendal, M., Sandberg, C., Wahlsteen, E., Stål Delbanco, A. (2022). Måkläppen – besök i skyddad natur. En förstudie om turism och naturskydd, 2022. Calluna AB.*
