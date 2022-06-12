@@ -22,7 +22,7 @@ Konflikten mellan naturvårdande bevarandeinsatser och människors nyttjande a
 
 **Måste vi välja mellan turism eller naturskydd?** Frågan ställdes på sin spets i Måkläppen och på uppdrag av Tourism in Skåne AB har vi analyserat beslutsgången, besökarna och vad för handlingsalternativ som finns än att stänga av naturen för besökare . 
 
-
+Har man flera samtidiga mål, som rekreation och naturskydd, är en stor utmaning att hitta de metoder och åtgärder för förvaltning och skötsel som ger bäst resultat sett till helheten av vad man vill åstadkomma. Här finns möjligheter att hitta åtgärder som är win-win – som både stärker naturskydd och upplevelsevärden. Vi presenterer och diskuterar sexton olika principiella lösningar och synliggör konflikter i en fyrfältare där två ekosystemtjänster tår mot varandra. 
 
 {{< figure src="besokare.jpg" title= "Besökares motiv till att besöka Måkläppen. Från enkätstudie." >}}
 
