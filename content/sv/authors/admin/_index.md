@@ -2,11 +2,11 @@
 title: Magnus Tuvendal
 role: Senior miljökonsult. PhD Sustainability Science/Naturresurshushållning
 
-bio: Mina intressen inkluderar hur vi kan artikulera naturens värde och implementera detta i kloka beslut, företags möjligheter att agera strategiskt hållbart och hur samarbete kan skapas när motstående intressen möts
+bio: Cenralt för mig är hur man stärker förmågan att fatta hållbara beslut, hur man kan agera utifrån en helhetsförståelse. Det inkluderar arbete med mätbarhet, materialitet och hur man lyssnar, inspirerar och framgångsrikt navigerar så olika aktörer och intressenter kan arbeta tillsammans även när motstående intressen möts.
 
 interests: 
-- hur vi kan artikulera naturens värde och implementera detta i kloka beslut
-- hur företag kan agera strategiskt hållbart
+- artikulera naturens värde och implementera detta i kloka beslut
+- strategisk hållbara vägval utifrån en helhetsförståelse inom näringsliv och offentlig sektor
 - hur samarbete kan skapas när motstående intressen möts. 
 
 social:
