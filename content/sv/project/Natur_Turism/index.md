@@ -1,5 +1,5 @@
 ---
-title: Naturskydd eller turism - måste vi välja?
+title: Omöjliga val - Naturskydd eller turism - måste vi välja?
 subtitle:
 summary: Med allt fler besökare i nauren riskeras de värden vi vill uppleva att erodera. En förstudie om konfliken mellan naturskydd och turims i Måkläppen, Falsterbo.
 tags:
